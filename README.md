@@ -17,3 +17,8 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### vue start : npm run serve
+### json-server :  json-server --watch data/db.json 
+
