@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "create new homepage banner",
+      "details": "Lorem ipsun",
+      "complete": true
+    },
+    {
+      "id": "2",
+      "title": "make marketting email",
+      "details": "Lorem ipsunn mailling",
+      "complete": true
+    },
+    {
+      "id": "3",
+      "title": "3rd project",
+      "details": "dnvek",
+      "complete": false
+    },
+    {
+      "id": "4",
+      "title": "4th project",
+      "details": "this is the 4th project",
+      "complete": false
+    }
+  ]
+}
